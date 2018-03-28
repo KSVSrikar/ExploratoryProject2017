@@ -1,9 +1,10 @@
-# ExploratoryProject2017
+# Model for Fly Rock Range in Bench-Blasting
+
 A 3D model and Simulation of Bench Blasting with certain parameters using Unity3D Game Engine. This project was undertaken by me as an exploratory project as part of my course curriculum.
 
 ---
 # Setup  
-The contents of this repository needs to be run on a unity3D application.
+The contents of this repository needs to be run on a Unity3D application.
 Once Unity3D is installed, simply goto `ExploratoryProject2017/EP-01/Assets/Scenes` and click on Scene1.unity file.
 
 ---
@@ -15,10 +16,15 @@ Once Unity3D is installed, simply goto `ExploratoryProject2017/EP-01/Assets/Scen
 4. Tab for toggling the menu at anytime.
 
 Simply set the required values to the available parameters and click simulate. 
-The program gives 3 second window to close the menu and to observe the blasting simulation.
+The program gives 3 second window to close the menu and to observe the Bench-Blasting simulation.
 
 ---
 
+# Built with 
+1. UnityEngine.
+2. Monodevelop.
+
+---
 
 # Screenshots
 
@@ -33,3 +39,11 @@ The program gives 3 second window to close the menu and to observe the blasting 
 ![scr5](https://user-images.githubusercontent.com/35230083/38056841-43eee9da-32fb-11e8-98c7-3efc951f3d1e.png)
 
 ---
+
+# References
+
+A MODEL FOR THE DETERMINATION OF FLYROCK RANGE AS A FUNCTION OF SHOT CONDITIONS - Management Science Associates (MSA), United States Department of the Interior Bureau of Mines, 4800 Forbes Avenue, Pittsburgh, Pennsylvania 15213.
+
+---
+
+
