@@ -17,6 +17,7 @@ Once Unity3D is installed, simply goto `ExploratoryProject2017/EP-01/Assets/Scen
 
 Simply set the required values to the available parameters and click simulate. 
 The program gives 3 second window to close the menu and to observe the Bench-Blasting simulation.
+Refresh when one wishes to test for new set of values.
 
 ---
 
@@ -28,14 +29,19 @@ The program gives 3 second window to close the menu and to observe the Bench-Bla
 
 # Screenshots
 
+MenuPanel(Toggle):
 ![scr2](https://user-images.githubusercontent.com/35230083/38056782-15b2fb38-32fb-11e8-8cf0-0e2b40cea8d2.png)
 
+Initial state of sample rock structure:
 ![scr1](https://user-images.githubusercontent.com/35230083/38056740-f3bba746-32fa-11e8-970e-d1e5eb09162a.png)
 
+Mid-Simulation:
 ![scr3](https://user-images.githubusercontent.com/35230083/38056811-2aa3eb10-32fb-11e8-9f48-d7109beaad41.png)
 
+Result(frontview):
 ![scr4](https://user-images.githubusercontent.com/35230083/38056835-3bf48e9c-32fb-11e8-9cc9-d49f2df4fb1d.png)
 
+Result(sideview):
 ![scr5](https://user-images.githubusercontent.com/35230083/38056841-43eee9da-32fb-11e8-98c7-3efc951f3d1e.png)
 
 ---
